@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+requests
+SpeechRecognition
+Pillow
+geocoder
+python-dotenv
+pyaudio
